@@ -1,3 +1,3 @@
 # ReleaseDrafterTest
 
-Readme file for Main branch
+Readme file for Main branch.
