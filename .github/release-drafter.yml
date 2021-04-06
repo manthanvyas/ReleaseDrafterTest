@@ -1,0 +1,13 @@
+name-template: 'Draft'
+tag-template: 'Draft'
+version-template: 'Draft'
+categories:
+  - title: '🚀 Features'
+    labels:
+      - 'feature'
+  - title: '🐛 Bug Fixes'
+    labels:
+      - 'bug'
+template: |
+  ## What’s Changed
+  $CHANGES
